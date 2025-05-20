@@ -21,4 +21,7 @@
 - [@xjectro/react-shared](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-shared)
 - [@xjectro/react-utils](https://www.npmjs.com/package/@xjectro/react-shared): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Freact-utils)
 - [@xjectro/express](https://www.npmjs.com/package/@xjectro/express): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fexpress)
+- [@xjectro/jwt](https://www.npmjs.com/package/@xjectro/crypto): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fcrypto)
+- [@xjectro/crypto](https://www.npmjs.com/package/@xjectro/jwt): ![npm package](https://img.shields.io/npm/dm/%40xjectro%2Fjwt)
+- [@herbycat/delivery](https://www.npmjs.com/package/@herbycat/delivery): ![npm package](https://img.shields.io/npm/dm/%40herbycat%2Fdelivery)
 
